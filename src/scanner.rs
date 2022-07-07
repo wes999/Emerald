@@ -1,5 +1,4 @@
 use std::collections::HashMap;
-use std::env::current_exe;
 use crate::scanner::error::Error;
 
 mod error;
